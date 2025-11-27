@@ -1,0 +1,12 @@
+{
+  "name": "synonym-test-node",
+  "version": "1.0.0",
+  "description": "Coding challenge for Fullstack candidates",
+  "main": "SynonymTest.js",
+  "scripts": {
+    "test": "node SynonymTest.js",
+    "start": "node SynonymTest.js"
+  },
+  "author": "Vedrana Hrzic",
+  "license": "MIT"
+}
